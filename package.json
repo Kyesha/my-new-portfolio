@@ -1,0 +1,13 @@
+{
+  "name": "Portfolio",
+  "version": "1.0.0",
+  "description": "my Portfolio",
+  "main": "index.js",
+  "repository": "https://github.com/Kyesha/my-new-portfolio.git",
+  "author": "kyesha",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
